@@ -1,0 +1,20 @@
+{
+	"Errors": [
+		{
+			"Id": 1,
+			"Message": "Invalid Request. "
+		},
+		{
+			"Id": 401,
+			"Message": "401-Invalid API key. "
+		},
+		{
+			"Id": 404,
+			"Message": "400 -city not found"
+		},
+		{
+			"Id": 429,
+			"Message": "429-Too many requests. Please try again"
+		}
+	]
+}
